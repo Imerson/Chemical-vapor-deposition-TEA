@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# Generated model outputs (kept locally; regenerate from the script)
+1- 1Mt/
+2-1Kt/
+
+# Editors
+.vscode/
